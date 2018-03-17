@@ -14,8 +14,8 @@ public class Dimension {
     //limites a y b
     
   
-    public double lMin;
-    public double lMax;
+    public double lMin; //ubicacion minima
+    public double lMax; //ubicacion maxima
   
 
     public double vMin; //velociad minima

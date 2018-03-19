@@ -36,7 +36,7 @@ public class PsoClase {
         //configuracion de ejecucion
         
         Algoritmo.SWARM_SIZE = 30;
-        Algoritmo.MAX_ITERATION=10;
+        Algoritmo.MAX_ITERATION=100;
         
         //////////// comienza el algoritmo
         //paso 1 : inicializo p y v
